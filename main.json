@@ -1,0 +1,100 @@
+{
+    "business_unit": [
+        "GMAG1"
+    ],
+    "roles": [
+        "PM"
+    ],
+    "actions": [
+        "EditTargets",
+        "PerformCloneManagement",
+        "PerformOrderModeling",
+        "RunPretradeRisk",
+        "SendOrdersToCrdCompliance",
+        "ViewModelOrders",
+        "ViewPositions",
+        "ViewRisk"
+    ],
+    "resources": {
+        "portfolios": [
+            "4927",
+            "2015",
+            "257",
+            "2055"
+        ]
+    },
+    "restrictions": {
+        "sleeves": {
+            "2055-MSVS": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-ABS": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-COMF": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-GMEQ": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-ELFX": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-LEVL": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-RVL": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-EQOL": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-PBCL": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ],
+            "2055-CRL": [
+                "RunPretradeRisk",
+                "SendOrdersToCrdCompliance",
+                "ViewModelOrders",
+                "ViewPositions",
+                "ViewRisk"
+            ]
+        }
+    }
+}
